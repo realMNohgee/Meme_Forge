@@ -24,7 +24,7 @@ memeforge is a utility tool in the agentic-AI ecosystem — it provides structur
 
 ```bash
 # Just download and run — zero deps
-curl -O https://raw.githubusercontent.com/realMNohgee/memeforge/main/memeforge.py
+curl -O https://raw.githubusercontent.com/realMNohgee/Meme_Forge/main/memeforge.py
 chmod +x memeforge.py
 ./memeforge.py template drake
 ```
