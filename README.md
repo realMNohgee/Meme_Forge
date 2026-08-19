@@ -1,4 +1,5 @@
 # memeforge
+![CI](https://github.com/realMNohgee/Meme_Forge/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 CLI meme template finder, captioner, and random generator.
 
